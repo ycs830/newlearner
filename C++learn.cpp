@@ -1263,4 +1263,49 @@
 //    cout<<"交换后：a ="<<a<<", b ="<<b<<endl;
 //    return 0;
 //}
+// #include<iostream>
+// using namespace std;
+// int money,cost,mama,flag=1,monthofdeath;
+// int main ()
+// {
+//     for(int i=1;i<=12;i++)
+//     {
+//         money+=300;
+//         cin>>cost;
+//         money-=cost;
+//            if(money<0)
+//            {
+//               flag=0;
+//               monthofdeath=i;
+//               break;
+//            }
+//         mama+=money/100;
+//         money%=100;
+//     }
+//     if(flag==1)
+//     {
+//         money+=mama*120;
+//         cout<<money;
+//     }
+//     else
+//     {
+//         cout<<-monthofdeath;
+//     }
+//     return 0;
+// }
+//#include <iostream>
+//using namespace std;
+//int a[11],s,x,i;
 
+//int main()
+//{
+ //   for(i=1;i<=10;i++)
+    //    cin>>a[i];
+   // for(i=1;i<=10;i++)
+   //     {s+=a[i];}
+   //     x = s/10;
+   // for(i=1;i<=10;i++)
+    //    if(a[i]< x)
+   //         cout << a[i] << " ";
+  //  return 0;
+//}
