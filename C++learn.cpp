@@ -1309,3 +1309,36 @@
    //         cout << a[i] << " ";
   //  return 0;
 //}
+// #include <stdio.h>
+// #include <string.h>
+// using namespace std;
+
+// void sum(char a[ ],char b[],int l)
+// {
+
+//     for(int i=0;i<l;i++)
+//     {
+//         b[a[i]]++;
+//     }
+//     }
+// void print(char p[])
+// {
+//             for(int i=' ';i<='~';i++)
+//     {
+//         if(p[i]!=0)
+//         {
+//             printf("%c:%d\n",i,p[i]);
+//         }
+//     }
+// }
+//     int main()
+//     {
+//         char c[150],d[128]={0};
+//         gets(c);
+//         int len=strlen(c);
+//         sum(c,d,len);
+//         print(d);
+
+//         return 0;
+//     }
+
