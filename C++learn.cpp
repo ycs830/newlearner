@@ -1342,3 +1342,30 @@
 //         return 0;
 //     }
 
+//#include <stdio.h>
+//#include <cmath>
+//using namespace std;
+//bool cook(int n);
+//int main()
+//{
+//    int n;
+//    printf("input an integer:");
+//    scanf("%d",&n);
+//    if(cook(n))
+//        printf("%d is a prime number \n",n);
+//    else
+//        printf("%d isn't a prime number \n",n);
+//    return 0;
+//}
+//bool cook(int n)
+//{
+//
+//    for(int i=2;i<sqrt(n);i++)
+//    {
+//        if(n%i==0)
+//        {
+//            return false;
+//        }
+//    }
+//    return true;
+//}
